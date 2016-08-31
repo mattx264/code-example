@@ -1,0 +1,96 @@
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\csc.exe
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\System.Collections.Immutable.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\vbc.exe
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\VBCSCompiler.exe
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\roslyn\VBCSCompiler.exe.config
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\API.dll.config
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\API.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\API.pdb
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Antlr3.Runtime.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Microsoft.Web.Infrastructure.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Newtonsoft.Json.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Net.Http.Formatting.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Helpers.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Http.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Http.WebHost.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Mvc.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Optimization.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Razor.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.WebPages.Deployment.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.WebPages.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.WebPages.Razor.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\WebGrease.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Newtonsoft.Json.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Net.Http.Formatting.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Helpers.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Http.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Http.WebHost.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Mvc.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Optimization.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.Razor.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.WebPages.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.WebPages.Deployment.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\System.Web.WebPages.Razor.xml
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Antlr3.Runtime.pdb
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\obj\Debug\API.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\obj\Debug\API.pdb
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Entiry.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\API\bin\Entiry.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\csc.exe
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\vbc.exe
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\API.dll.config
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\API.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\API.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Antlr3.Runtime.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Entiry.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Newtonsoft.Json.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Net.Http.Formatting.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Helpers.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Http.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Http.WebHost.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Mvc.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Optimization.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Razor.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.WebPages.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.WebPages.Razor.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\WebGrease.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Entiry.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Newtonsoft.Json.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Net.Http.Formatting.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Helpers.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Http.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Http.WebHost.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Mvc.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Optimization.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.Razor.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.WebPages.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\bin\Antlr3.Runtime.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\obj\Debug\API.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\API\obj\Debug\API.pdb

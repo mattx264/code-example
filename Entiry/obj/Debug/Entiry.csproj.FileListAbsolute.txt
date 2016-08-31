@@ -1,0 +1,10 @@
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\Entiry\bin\Debug\Entiry.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\Entiry\bin\Debug\Entiry.pdb
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\Entiry\obj\Debug\Entiry.csprojResolveAssemblyReference.cache
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\Entiry\obj\Debug\Entiry.dll
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\Entiry\obj\Debug\Entiry.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Entiry\bin\Debug\Entiry.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Entiry\bin\Debug\Entiry.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Entiry\obj\Debug\Entiry.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Entiry\obj\Debug\Entiry.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Entiry\obj\Debug\Entiry.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\mateusz\sourcecontrol\Services\SPRINT\Websites\CroweHorwath\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\Tests.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\Tests.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\Entiry.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\Typemock.ArrangeActAssert.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\TypeMock.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\Entiry.pdb
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\obj\Debug\Tests.dll
+C:\Users\mmachaj\Documents\Visual Studio 2015\Projects\CroweHorwath\Tests\obj\Debug\Tests.pdb
